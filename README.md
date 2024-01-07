@@ -1,0 +1,1 @@
+Settings I used for emacs across different linux systems.
